@@ -1,0 +1,22 @@
+{
+    "agent_name": "MyInfraHub AI Assistant",
+    "version": "1.0.0",
+    "description": "AI-powered infrastructure knowledge agent",
+    "ai_stack": {
+        "platform": "Google Antigravity",
+        "integration": "Google Stitch",
+        "ai_kit": "Google ADK",
+        "model": "Google Gemini Pro"
+    },
+    "capabilities": [
+        "Infrastructure Q&A",
+        "Cloud Computing Guidance",
+        "DevOps Best Practices",
+        "Networking Help",
+        "Server Management Tips"
+    ],
+    "deployment": {
+        "url": "https://www.myinfrahub.com",
+        "status": "live"
+    }
+}
