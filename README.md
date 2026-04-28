@@ -1,27 +1,57 @@
 # 🏗️ MyInfraHub — AI-Powered Infrastructure Knowledge Platform
 
-🌐 **Live Website:** [https://www.myinfrahub.com](https://www.myinfrahub.com)
+> An intelligent web platform that simplifies infrastructure knowledge using Google's AI stack — Gemini, ADK, Antigravity & Stitch.
+
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-blue?style=flat-square&logo=google)](https://ai.google.dev)
+[![Google ADK](https://img.shields.io/badge/Google%20ADK-Agent-orange?style=flat-square&logo=google)](https://google.github.io/adk-docs)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-myinfrahub.com-purple?style=flat-square)](https://www.myinfrahub.com)
+
+## 🌐 Live Demo
+**→ https://www.myinfrahub.com**
 
 ---
 
-## 📌 Project Overview
+## 📌 What It Does
 
-**MyInfraHub** is an AI-powered web platform designed to simplify
-infrastructure-related knowledge, tools, and resources.
-Built using the **Google AI Tech Stack (Antigravity, Stitch & ADK)**,
-it provides users with an intelligent, interactive, and modern
-experience for exploring infrastructure concepts, tools,
-and best practices.
+1. **Ask anything** about infrastructure in natural language
+2. **Gemini AI answers** with intelligent, context-aware responses
+3. **Smart Search** finds relevant infrastructure topics instantly
+4. **Knowledge Base** provides curated guides and best practices
 
-Whether you're a student, developer, or IT professional — 
-MyInfraHub makes infrastructure knowledge accessible to everyone.
+---
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| **Frontend** | HTML, CSS, JavaScript (Responsive) |
+| **AI/ML** | Google Gemini AI, Google ADK |
+| **Platform** | Google Antigravity, Google Stitch |
+| **Deployment** | Live at [myinfrahub.com](https://www.myinfrahub.com) |
+
+---
+
+## 🧠 Google AI Stack Usage
+
+### Google Antigravity
+- Used as the **development and runtime platform**
+- Project is run and managed through Antigravity
+
+### Google Stitch
+- Used for **connecting frontend with AI backend services**
+- Handles data flow and integration between components
+
+### Google ADK (AI Development Kit)
+- Powers the **AI agent** that assists users
+- Integrates **Google Gemini** for natural language understanding
+- Handles intelligent query processing and responses
 
 ---
 
 ## 🚀 Features
 
-- 🤖 **AI-Powered Assistance** — Uses Google Gemini AI for intelligent responses
-- 🌐 **Modern Frontend** — Clean, responsive, and user-friendly web interface
+- 🤖 **AI-Powered Assistance** — Google Gemini AI for intelligent responses
+- 🌐 **Modern Frontend** — Clean, responsive, user-friendly interface
 - 🔍 **Smart Search** — AI-enhanced search for infrastructure topics
 - 📚 **Knowledge Base** — Curated infrastructure resources and guides
 - ⚡ **Fast & Deployed** — Live and accessible at myinfrahub.com
@@ -29,32 +59,18 @@ MyInfraHub makes infrastructure knowledge accessible to everyone.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 AI/ML Concepts Demonstrated
 
-| Layer        | Technology                          |
-|-------------|--------------------------------------|
-| **Frontend** | HTML, CSS, JavaScript (Responsive)  |
-| **AI/ML**    | Google Gemini AI, Google ADK        |
-| **Platform** | Google Antigravity, Google Stitch   |
-| **Deployment** | Live at myinfrahub.com            |
+- **Agentic AI** — ADK-powered agent handles user queries end-to-end
+- **LLM Integration** — Google Gemini for natural language understanding
+- **AI + Web** — Full stack AI application with live deployment
+- **RAG Pattern** — Knowledge base retrieval with AI-generated responses
 
 ---
 
-## 🧠 Google AI Stack Usage
+## 👤 Author
 
-### 1. Google Antigravity
-- Used as the **development and runtime platform**
-- Project is run and managed through Antigravity
-
-### 2. Google Stitch
-- Used for **connecting frontend with AI backend services**
-- Handles data flow and integration between components
-
-### 3. Google ADK (AI Development Kit)
-- Powered the **AI agent** that assists users
-- Integrated **Google Gemini** for natural language understanding
-- Handles intelligent query processing and responses
-
----
-
-## 📂 Project Structure
+**Mohammed Inabah Khan**
+- [LinkedIn](https://www.linkedin.com/in/mohammed-inabah-khan-0696ba3a5)
+- [GitHub](https://github.com/inabahk)
+- [MyInfraHub](https://www.myinfrahub.com)
